@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kiwi AI - Code Smarter</title>
+    <meta name="description" content="AI-powered coding assistant with multiple models" />
+    <style>
+      /* Custom Loader - No Vite Default */
+      #app-loader {
+        position: fixed;
+        inset: 0;
+        background: #0F0F0F;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        z-index: 9999;
+      }
+      
+      .kiwi-spinner {
+        width: 48px;
+        height: 48px;
+        border: 4px solid #2A2A2A;
+        border-top-color: #D97706;
+        border-radius: 50%;
+        animation: spin 0.8s linear infinite;
+      }
+      
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+      
+      .loader-text {
+        margin-top: 20px;
+        color: #A3A3A3;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Custom Loader -->
+    <div id="app-loader">
+      <div class="kiwi-spinner"></div>
+      <p class="loader-text">Loading Kiwi AI...</p>
+    </div>
+    
+    <!-- React Root -->
+    <div id="root"></div>
+    
+    <script type="module" src="/src/main.jsx"></script>
+    
+    <script>
+      // Hide loader when app loads
+      window.addEventListener('DOMContentLoaded', () => {
+        setTimeout(() => {
+          const loader = document.getElementById('app-loader');
+          if (loader) loader.style.display = 'none';
+        }, 1000);
+      });
+    </script>
+  </body>
+</html>

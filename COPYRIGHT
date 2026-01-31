@@ -1,0 +1,311 @@
+# COPYRIGHT NOTICE
+
+## GlobalAssist - AI Coding Assistant
+
+**Copyright © 2025 Elmehdi Elmouate. All Rights Reserved.**
+
+---
+
+## OWNERSHIP
+
+This software and all associated documentation files (the "Software") are the intellectual property of **Elmehdi Elmouate**.
+
+**Creator:** Elmehdi Elmouate  
+**GitHub:** https://github.com/GitMehdi-sys  
+**Email:** mehdielmo2020@gmail.com  
+**Date:** January 2025
+
+---
+
+## COPYRIGHT PROTECTION
+
+### What This Means:
+
+✅ **You CAN:**
+- Use this software for personal projects
+- Use this software for commercial projects
+- Modify the code for your needs
+- Study how it works
+- Share it with others (with attribution)
+
+❌ **You CANNOT:**
+- Claim this software as your own creation
+- Remove copyright notices
+- Remove attribution to Elmehdi Elmouate
+- Use the "GlobalAssist" name without permission
+- Use the GlobalAssist logo without permission
+- Sell this software without attribution
+
+---
+
+## REQUIRED ATTRIBUTION
+
+### In Your Project:
+
+You **MUST** include the following attribution in any project using this code:
+
+```
+Based on GlobalAssist by Elmehdi Elmouate
+GitHub: https://github.com/GitMehdi-sys/GlobalAssist
+License: MIT License
+```
+
+### In Your README:
+
+```markdown
+## Acknowledgments
+- GlobalAssist by Elmehdi Elmouate (https://github.com/GitMehdi-sys)
+```
+
+### In Your Code Comments:
+
+```javascript
+// Based on GlobalAssist
+// Created by Elmehdi Elmouate
+// https://github.com/GitMehdi-sys/GlobalAssist
+```
+
+---
+
+## DIGITAL MILLENNIUM COPYRIGHT ACT (DMCA)
+
+This software is protected under the Digital Millennium Copyright Act (DMCA) and international copyright laws.
+
+**Unauthorized copying, redistribution, or use without attribution is a violation of copyright law.**
+
+### To Report Copyright Violations:
+
+If you find someone using this software without proper attribution:
+
+1. Email: mehdielmo2020@gmail.com
+2. Subject: "Copyright Violation Report - GlobalAssist"
+3. Include:
+   - URL of the violation
+   - Description of the violation
+   - Your contact information
+
+---
+
+## PROOF OF AUTHORSHIP
+
+### Original Creation:
+
+- **First Commit:** [Date of first GitHub commit]
+- **Original Repository:** https://github.com/GitMehdi-sys/GlobalAssist
+- **Creator Profile:** https://github.com/GitMehdi-sys
+- **Contact Email:** mehdielmo2020@gmail.com
+
+### Code Signature:
+
+This file serves as a digital signature of authorship. All original code files contain:
+
+```
+/**
+ * GlobalAssist - AI Coding Assistant
+ * Copyright (c) 2025 Elmehdi Elmouate
+ * Licensed under MIT License
+ */
+```
+
+---
+
+## HOW TO USE THIS SOFTWARE LEGALLY
+
+### ✅ Correct Usage:
+
+**Example 1: Personal Project**
+```markdown
+# My Coding Assistant
+
+This project uses GlobalAssist by Elmehdi Elmouate as its foundation.
+Original project: https://github.com/GitMehdi-sys/GlobalAssist
+
+Modifications:
+- Added feature X
+- Changed UI to blue theme
+```
+
+**Example 2: Commercial Project**
+```markdown
+# CodingPro - AI Assistant
+
+Built using GlobalAssist technology by Elmehdi Elmouate.
+Original creator: https://github.com/GitMehdi-sys
+License: MIT
+
+Additional features developed by [Your Company]
+```
+
+### ❌ Incorrect Usage (Copyright Violation):
+
+**Example 1: No Attribution**
+```markdown
+# My AI Assistant
+I created this amazing AI coding assistant!
+```
+☠️ **This is theft and a copyright violation!**
+
+**Example 2: False Attribution**
+```markdown
+# CodeHelper
+Created by: John Doe
+```
+☠️ **This is plagiarism and illegal!**
+
+---
+
+## FORK GUIDELINES
+
+### If You Fork This Project:
+
+1. **Keep the LICENSE file** - Required by MIT License
+2. **Keep the COPYRIGHT file** - Required for attribution
+3. **Update README** with your changes
+4. **Add attribution** to Elmehdi Elmouate
+5. **Consider contributing** back to the original project
+
+### Fork README Template:
+
+```markdown
+# [Your Project Name]
+
+🔗 **Forked from GlobalAssist by Elmehdi Elmouate**  
+📦 Original Project: https://github.com/GitMehdi-sys/GlobalAssist
+
+## What's Different?
+
+This fork adds:
+- Feature 1
+- Feature 2
+
+## Credits
+
+Original software created by Elmehdi Elmouate  
+GitHub: https://github.com/GitMehdi-sys  
+Email: mehdielmo2020@gmail.com
+
+## License
+
+MIT License (see LICENSE file)
+```
+
+---
+
+## ENFORCEMENT
+
+### I Will Take Action Against:
+
+1. **Plagiarism** - Claiming this work as your own
+2. **Copyright Removal** - Deleting copyright notices
+3. **No Attribution** - Using without credit
+4. **Name Theft** - Using "GlobalAssist" name falsely
+5. **Commercial Misuse** - Selling without attribution
+
+### Actions Taken:
+
+- **DMCA Takedown Notice** to GitHub/hosting provider
+- **Legal Action** if necessary
+- **Public Report** on GitHub
+- **Contact Your Employer** if violation is commercial
+
+---
+
+## CONTRIBUTING
+
+### Want to Contribute?
+
+I welcome contributions! Here's how to do it properly:
+
+1. Fork the repository
+2. Make your changes
+3. Submit a Pull Request
+4. Your contribution will be credited
+
+### Contributors Hall of Fame:
+
+All contributors will be listed in CONTRIBUTORS.md with:
+- Name
+- GitHub profile
+- Contribution description
+
+---
+
+## CONTACT
+
+### Creator:
+
+**Elmehdi Elmouate**
+
+- **GitHub:** [@GitMehdi-sys](https://github.com/GitMehdi-sys)
+- **Email:** mehdielmo2020@gmail.com
+- **Project:** https://github.com/GitMehdi-sys/GlobalAssist
+
+### Questions About Copyright?
+
+Email me: mehdielmo2020@gmail.com
+
+Subject: "GlobalAssist Copyright Question"
+
+---
+
+## LEGAL NOTICES
+
+### Disclaimer:
+
+This copyright notice is legally binding. By using, modifying, or distributing this software, you agree to comply with all terms stated herein and in the LICENSE file.
+
+### Governing Law:
+
+This copyright is enforced under:
+- International Copyright Law
+- Digital Millennium Copyright Act (DMCA)
+- MIT License Terms
+- Applicable Local Laws
+
+### Effective Date:
+
+This copyright notice is effective from January 30, 2025.
+
+---
+
+## BLOCKCHAIN VERIFICATION (Optional)
+
+For additional proof of authorship, the SHA-256 hash of this project is:
+
+```
+[To be added: Generate hash of repository]
+git log --pretty=format:"%H" -1
+```
+
+This serves as cryptographic proof of the original creation date and authorship.
+
+---
+
+## SUMMARY
+
+### Remember:
+
+✅ **USE** this software (it's free!)  
+✅ **MODIFY** it for your needs  
+✅ **SHARE** it with attribution  
+✅ **CONTRIBUTE** improvements back  
+
+❌ **DON'T** steal credit  
+❌ **DON'T** remove attribution  
+❌ **DON'T** claim as your own  
+
+### Golden Rule:
+
+**Give credit where credit is due.**
+
+If you use my work, say so. It's that simple.
+
+---
+
+**Thank you for respecting intellectual property! 🙏**
+
+---
+
+© 2025 Elmehdi Elmouate. All Rights Reserved.
+
+Last Updated: January 30, 2025
