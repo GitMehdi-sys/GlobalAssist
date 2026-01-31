@@ -1,4 +1,4 @@
-# Kiwi AI - Frontend
+# GlobalAssist - Frontend
 
 React + Vite frontend for Kiwi AI coding assistant.
 
