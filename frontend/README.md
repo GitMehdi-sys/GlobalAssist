@@ -1,6 +1,6 @@
 # GlobalAssist - Frontend
 
-React + Vite frontend for Kiwi AI coding assistant.
+React + Vite frontend for GlobalAssist coding assistant.
 
 ## 🚀 Quick Start
 
