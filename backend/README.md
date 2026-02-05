@@ -1,4 +1,4 @@
-# Kiwi AI - Backend API
+# GlobalAssist
 
 ## 🚀 Quick Start
 
